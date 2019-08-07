@@ -1,0 +1,19 @@
+{
+  "name": "aws-lambda-with-layer",
+  "version": "1.0.0",
+  "description": "\"# aws-lambda-with-layer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhusudangohil/aws-lambda-with-layer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhusudangohil/aws-lambda-with-layer/issues"
+  },
+  "homepage": "https://github.com/madhusudangohil/aws-lambda-with-layer#readme"
+}
